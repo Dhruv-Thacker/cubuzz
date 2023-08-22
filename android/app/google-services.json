@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036262784460",
+    "project_id": "flutter-notification-buzzcu",
+    "storage_bucket": "flutter-notification-buzzcu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036262784460:android:cff9d5b9f1270aeb4af169",
+        "android_client_info": {
+          "package_name": "com.example.cubuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036262784460-ha5r06ha7t3b19jc3p9agrnbv8dq8lbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiSjBvPJu20nSCWicBbgCPxkiYxAdaRRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036262784460-ha5r06ha7t3b19jc3p9agrnbv8dq8lbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
